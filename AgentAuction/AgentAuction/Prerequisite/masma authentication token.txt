@@ -1,0 +1,6 @@
+6ae84ad6a66f93f4b25559bebd204bd310587f0a
+
+-dlownload vjslib in order to get project working
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=4712
+
+-add reference to jadeLeap for .net 2.0.0
