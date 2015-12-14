@@ -1,0 +1,3 @@
+D:\Cursuri faculta\Anul II Master\Masma\AgentAuction\AgentAuction\obj\Debug\AgentAuction.csprojResolveAssemblyReference.cache
+D:\Cursuri faculta\Anul II Master\Masma\AgentAuction\AgentAuction\obj\Debug\AgentAuction.FormAgent.resources
+D:\Cursuri faculta\Anul II Master\Masma\AgentAuction\AgentAuction\obj\Debug\AgentAuction.csproj.GenerateResource.Cache
